@@ -1,22 +1,22 @@
 #!/bin/bash
 
-# installprotectall.sh
+# uninstallprotectall.sh
 # Script untuk menginstall/uninstall semua Protect Panel
 
 # Array script yang akan dijalankan
 scripts=(
-    'installprotect1.sh'
-    'installprotect2.sh'
-    'installprotect3.sh'
-    'installprotect4.sh'
-    'installprotect5.sh'
-    'installprotect6.sh'
-    'installprotect7.sh'
-    'installprotect8.sh'
-    'installprotect9.sh'
-    'installprotect10.sh'
-    'installprotect11.sh'
-    'installprotect12.sh'
+    'uninstallprotect1.sh'
+    'uninstallprotect2.sh'
+    'uninstallprotect3.sh'
+    'uninstallprotect4.sh'
+    'uninstallprotect5.sh'
+    'uninstallprotect6.sh'
+    'uninstallprotect7.sh'
+    'uninstallprotect8.sh'
+    'uninstallprotect9.sh'
+    'uninstallprotect10.sh'
+    'uninstallprotect11.sh'
+    'uninstallprotect12.sh'
 )
 
 # Base URL untuk download script
