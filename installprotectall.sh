@@ -20,7 +20,7 @@ scripts=(
 )
 
 # Base URL untuk download script
-BASE_URL="https://raw.githubusercontent.com/liaacans/installers/refs/heads/main/v1"
+BASE_URL="https://raw.githubusercontent.com/dryzxmods/instaler/main/v1"
 
 # Fungsi untuk menampilkan header
 show_header() {
